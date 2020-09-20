@@ -51,8 +51,8 @@
     {
       "address": "0x61790af8c5d7be706781dba8c4c971195890cc1e",
       "chainId": 42,
-      "name": "GOLFF",
-      "symbol": "XYZ",
+      "name": "MockGOLFF",
+      "symbol": "GOLFF",
       "decimals": 18,
       "logoURI": "https://1inch.exchange/assets/tokens/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
     }
@@ -60,6 +60,6 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }
