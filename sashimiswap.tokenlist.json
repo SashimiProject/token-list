@@ -6,7 +6,7 @@
     "sushi",
     "swap"
   ],
-  "timestamp": "2020-09-18T00:00:00+00:00",
+  "timestamp": "2020-09-19T00:00:00+00:00",
   "tokens": [
     {
       "address": "0x89d5F2E52D36b85e72e25e8fE46d709D445c03Fc",
@@ -59,7 +59,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 3,
-    "patch": 1
+    "minor": 4,
+    "patch": 0
   }
 }
