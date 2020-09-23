@@ -6,7 +6,7 @@
     "sushi",
     "swap"
   ],
-  "timestamp": "2020-09-19T00:00:00+00:00",
+  "timestamp": "2020-09-23T00:00:00+00:00",
   "tokens": [
     {
       "address": "0x89d5F2E52D36b85e72e25e8fE46d709D445c03Fc",
@@ -25,7 +25,7 @@
       "logoURI": "https://1inch.exchange/assets/tokens/0xbf2179859fc6d5bee9bf9158632dc51678a4100e.png"
     },
     {
-      "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+      "address": "0xa050886815cfc52a24b9c4ad044ca199990b6690",
       "chainId": 42,
       "name": "WrappedEther",
       "symbol": "WETH",
@@ -59,7 +59,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
