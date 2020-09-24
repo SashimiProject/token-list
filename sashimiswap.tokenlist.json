@@ -6,15 +6,23 @@
     "sushi",
     "swap"
   ],
-  "timestamp": "2020-09-01T00:00:00+00:00",
+  "timestamp": "2020-09-24T00:00:00+00:00",
   "tokens": [
     {
       "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
       "chainId": 1,
-      "name": "SashimiSwap",
+      "name": "SashimiToken",
       "symbol": "SASHIMI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SashimiProject/token-list/master/assets/SASHIMI.png"
+    },
+    {
+      "address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+      "chainId": 1,
+      "name": "ELF Token",
+      "symbol": "ELF",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0xbf2179859fc6d5bee9bf9158632dc51678a4100e.png"
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -27,7 +35,7 @@
     {
       "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
       "chainId": 1,
-      "name": "WrappedBTC",
+      "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://1inch.exchange/assets/tokens/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
