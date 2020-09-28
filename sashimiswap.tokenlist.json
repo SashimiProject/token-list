@@ -6,12 +6,12 @@
     "sushi",
     "swap"
   ],
-  "timestamp": "2020-09-23T00:00:00+00:00",
+  "timestamp": "2020-09-28T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0x89d5F2E52D36b85e72e25e8fE46d709D445c03Fc",
+      "address": "0x4986843fde2b0dae6bdc54c8e16567614ea8786f",
       "chainId": 42,
-      "name": "SashimiSwap",
+      "name": "SashimiToken",
       "symbol": "SASHIMI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SashimiProject/token-list/master/assets/SASHIMI.png"
@@ -59,7 +59,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
