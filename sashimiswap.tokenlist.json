@@ -6,7 +6,7 @@
     "sushi",
     "swap"
   ],
-  "timestamp": "2020-09-24T00:00:00+00:00",
+  "timestamp": "2020-10-09T00:00:00+00:00",
   "tokens": [
     {
       "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
@@ -31,6 +31,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://1inch.exchange/assets/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+      "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "chainId": 1,
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png"
     },
     {
       "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -131,7 +139,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
