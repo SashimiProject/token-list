@@ -9,6 +9,14 @@
   "timestamp": "2020-12-29T00:00:00+00:00",
   "tokens": [
     {
+      "address": "0xc2037c1c13dd589e0c14c699dd2498227d2172cc",
+      "chainId": 128,
+      "name": "SashimiToken",
+      "symbol": "SASHIMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SashimiProject/token-list/master/assets/SASHIMI.png"
+    },
+    {
       "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
       "chainId": 128,
       "name": "Wrapped HT",
@@ -67,7 +75,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
