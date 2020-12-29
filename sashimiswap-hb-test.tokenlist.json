@@ -15,11 +15,214 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/logo.png"
+    },
+    {
+      "address": "0x60d64Ef311a4F0E288120543A14e7f90E76304c6",
+      "symbol": "DAI",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "chainId": 256
+    },
+    {
+      "address": "0xd459Dad367788893c17c09e17cFBF0bf25c62833",
+      "symbol": "USDC",
+      "decimals": 6,
+      "name": "USD Coin",
+      "chainId": 256
+    },
+    {
+      "address": "0xdb4c5b219168F926c2c0C776438B8355a3A4018e",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "name": "TrueUSD",
+      "chainId": 256
+    },
+    {
+      "address": "0x04F535663110A392A6504839BEeD34E019FdB4E0",
+      "symbol": "USDT",
+      "decimals": 6,
+      "name": "Tether USD",
+      "chainId": 256
+    },
+    {
+      "address": "0xfB3c59ccdBaa59f5611637498FA177F4E8910a47",
+      "symbol": "SUSD",
+      "decimals": 18,
+      "name": "Synth sUSD",
+      "chainId": 256
+    },
+    {
+      "address": "0x3dC2Ea766A32BdD78769c05067A8D44A447598CE",
+      "symbol": "LEND",
+      "decimals": 18,
+      "name": "EthLend",
+      "chainId": 256
+    },
+    {
+      "address": "0xF203743Eb06A725f3B4ee7b35fed5C853233ae73",
+      "symbol": "BAT",
+      "decimals": 18,
+      "name": "Basic Attention Token",
+      "chainId": 256
+    },
+    {
+      "address": "0x9Aa3D61F0A14698a0B98445B83BF8822e2304cB2",
+      "symbol": "KNC",
+      "decimals": 18,
+      "name": "KyberNetwork",
+      "chainId": 256
+    },
+    {
+      "address": "0x3E24e9d2c824B0ac2C82edc931B67252099B8e79",
+      "symbol": "LINK",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "chainId": 256
+    },
+    {
+      "address": "0x36DD0591e4dFF350627f62950b2a6F2181B70e3E",
+      "symbol": "MANA",
+      "decimals": 18,
+      "name": "Decentraland",
+      "chainId": 256
+    },
+    {
+      "address": "0x8F8c70e5E9A013B32600e338e4bBE6364caAF5BB",
+      "symbol": "MKR",
+      "decimals": 18,
+      "name": "Maker",
+      "chainId": 256
+    },
+    {
+      "address": "0x9d4c69aE56002a152e428A216A406d63d207f6b2",
+      "symbol": "REP",
+      "decimals": 18,
+      "name": "Augur",
+      "chainId": 256
+    },
+    {
+      "address": "0x087Ed0d3CA0Ed342AD4Ad3439F8174b41e2Ba47D",
+      "symbol": "SNX",
+      "decimals": 18,
+      "name": "Synthetix Network Token",
+      "chainId": 256
+    },
+    {
+      "address": "0x84C6Ae2888f954Ea041fc541408d302F163f8194",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "chainId": 256
+    },
+    {
+      "address": "0x5000F1595491A4C2F6946d3976f0B9e3D3c3Da77",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "name": "0x Protocol Token",
+      "chainId": 256
+    },
+    {
+      "address": "0xB81fb486292ec6b7956e68B7C54B73b55E812008",
+      "symbol": "BTCx",
+      "decimals": 18,
+      "name": "Bitcoin",
+      "chainId": 256
+    },
+    {
+      "address": "0x69AB5c067370FfcF48f1678918A719B7e1f4B4AA",
+      "symbol": "XRPx",
+      "decimals": 18,
+      "name": "XRP",
+      "chainId": 256
+    },
+    {
+      "address": "0x326708a5C67c187725317ED89A1fb242B44e192a",
+      "symbol": "LTCx",
+      "decimals": 18,
+      "name": "Litecoin",
+      "chainId": 256
+    },
+    {
+      "address": "0x81f24eDf5974B1633a17514ffe60343778c89E2A",
+      "symbol": "BCHx",
+      "decimals": 18,
+      "name": "BitcoinCash",
+      "chainId": 256
+    },
+    {
+      "address": "0xDC1de33c967708CD41d9EF9F056d7B54B8bd8142",
+      "symbol": "ADAx",
+      "decimals": 18,
+      "name": "cardano",
+      "chainId": 256
+    },
+    {
+      "address": "0x97DE62E21D85c3D1A1bBF7E455C004096e51EcFc",
+      "symbol": "DOTx",
+      "decimals": 18,
+      "name": "Polkdot",
+      "chainId": 256
+    },
+    {
+      "address": "0xaD941373782E3162a9EE661FB859E64Cc559FA9c",
+      "symbol": "XLMx",
+      "decimals": 18,
+      "name": "Stellar",
+      "chainId": 256
+    },
+    {
+      "address": "0x26E3243b5244B86da950610f0DbFfb52387043d5",
+      "symbol": "BSVx",
+      "decimals": 18,
+      "name": "BSV",
+      "chainId": 256
+    },
+    {
+      "address": "0x25d0575F93575da087AE269A8dbbBb27dC83d1E2",
+      "symbol": "EOSx",
+      "decimals": 18,
+      "name": "EOS",
+      "chainId": 256
+    },
+    {
+      "address": "0x5db1f6BCD5dbB98bDD9C4A22b442649d62D6bA36",
+      "symbol": "XMRx",
+      "decimals": 18,
+      "name": "XMR",
+      "chainId": 256
+    },
+    {
+      "address": "0x83eA3565cc6aBF2d3CcfF462E3Ce4d49c4bAFBbA",
+      "symbol": "TRONx",
+      "decimals": 18,
+      "name": "TRON",
+      "chainId": 256
+    },
+    {
+      "address": "0xc1216835D0890331cDfa24295910E1599dc52969",
+      "symbol": "XEMx",
+      "decimals": 18,
+      "name": "NEM",
+      "chainId": 256
+    },
+    {
+      "address": "0xf9B70a3D6d5c882b174714510d811916155A0C2b",
+      "symbol": "TXZx",
+      "decimals": 18,
+      "name": "Tezos",
+      "chainId": 256
+    },
+    {
+      "address": "0x10C31465ED204C4B5e99c2f4d59EC4b1fe82f503",
+      "symbol": "FILx",
+      "decimals": 18,
+      "name": "Filecoin",
+      "chainId": 256
     }
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
