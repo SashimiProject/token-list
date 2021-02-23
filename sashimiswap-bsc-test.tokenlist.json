@@ -1,0 +1,33 @@
+{
+  "name": "SashimiSwap Menu",
+  "logoURI": "https://raw.githubusercontent.com/SashimiProject/token-list/master/assets/SASHIMI.png",
+  "keywords": [
+    "sashimiswap",
+    "sashimi",
+    "swap"
+  ],
+  "timestamp": "2020-12-29T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "chainId": 97,
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6f259637dcD74C767781E37Bc6133cd6A68aa161/logo.png"
+    },
+    {
+      "address": "0xc4f52d50de4069742417193aabe29218988a4395",
+      "chainId": 97,
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://info.uniswap.org/static/media/eth.73dabb37.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
