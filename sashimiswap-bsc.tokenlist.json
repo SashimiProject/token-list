@@ -9,7 +9,7 @@
   "timestamp": "2021-02-26T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
       "chainId": 56,
       "name": "SashimiToken",
       "symbol": "SASHIMI",
@@ -31,6 +31,14 @@
       "symbol": "ELF",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/aelf_28.png"
+    },
+    {
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "chainId": 56,
+      "name": "Polkadot Token",
+      "symbol": "DOT",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
     },
     {
       "address": "0x55d398326f99059ff775485246999027b3197955",
@@ -83,7 +91,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
