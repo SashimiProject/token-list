@@ -1,0 +1,97 @@
+{
+  "name": "SashimiSwap Menu",
+  "logoURI": "https://raw.githubusercontent.com/SashimiProject/token-list/master/assets/SASHIMI.png",
+  "keywords": [
+    "sashimiswap",
+    "sashimi",
+    "swap"
+  ],
+  "timestamp": "2021-02-26T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "chainId": 56,
+      "name": "SashimiToken",
+      "symbol": "SASHIMI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SashimiProject/token-list/master/assets/SASHIMI.png"
+    },
+    {
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "name": "Wrapped BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    },
+    {
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "chainId": 56,
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+      "address": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9",
+      "chainId": 56,
+      "name": "ELF Token",
+      "symbol": "ELF",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0xbf2179859fc6d5bee9bf9158632dc51678a4100e.png"
+    },
+    {
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "chainId": 56,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+    },
+    {
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "chainId": 56,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+    },
+    {
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "chainId": 56,
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
+    },
+    {
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "chainId": 56,
+      "name": "PancakeSwap Token",
+      "symbol": "Cake",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png?=v1"
+    },
+    {
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "chainId": 56,
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 2,
+    "patch": 0
+  }
+}
